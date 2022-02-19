@@ -1,0 +1,17 @@
+{
+    "name": "algoms",
+    "version": "0.0.1",
+    "description": "Sign Algorand transactions with multiple private keys at once. Input all the transaction files you want to sign along with the multisig keys you want to sign them with.",
+    "main": "bin/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["algoms", "Algorand", "algorand", "ALGO", "algo", "crypto", "cryptocurrency", "transaction", "transactions", "txn", "txns", "signer", "sign", "multisig", "msig", "wallet"],
+    "author": "heshbeng",
+    "bugs": "https://github.com/heshbeng/algoms/issues",
+    "license": "MIT",
+    "bin": {
+      "algoms": "./bin/index.js"
+    }
+   }
+   
